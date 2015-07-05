@@ -7,21 +7,21 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>936109EA-98FB-451E-A2E6-65777184FEC9</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Postcard</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0B943499D5D2B6D625537DFA3AB005D21DB4D41B</key>
-		<string>https://github.com/heyfredrick/Postcard</string>
+		<string>https://github.com/heyfredrick/Postcard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Postcard.xcodeproj/project.xcworkspace</string>
+	<string>Postcard.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0B943499D5D2B6D625537DFA3AB005D21DB4D41B</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/heyfredrick/Postcard</string>
+	<string>https://github.com/heyfredrick/Postcard.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
